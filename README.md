@@ -57,7 +57,9 @@ Previously: Women Who Code Python
 - [@TwitterHandle]
 - [@Instagram](http://instagram.com/womeninsoftwarepython)
 - [@Threads](http://threads.net/womeninsoftwarepython)
+- [@Bsky](http://womeninsoftwarepy.bsky.social)
 - [Linkedin Group](https://www.linkedin.com/groups/14431749/)
+- [Linkedin Page]
 - [Facebook Group](https://www.facebook.com/groups/womeninsoftwarepython)
 
 ## Data-Science
@@ -199,8 +201,15 @@ Previously: Women Who Code Toronto
 
 - Community Organizer: Eliza Sarobhasa, Navati Jain, Aranyah Shanker, Su
 - [Personal Website] pending, waiting for DNS fix because it's ~ always ~ DNS
-- Description - still setting up/discussing on rebuilding community spaces
+- Description - still setting up/discussing on rebuilding community spaces, collaboration with Vancouver, BC
+- [Slack]
 - [Facebook Group](https://www.facebook.com/groups/womeninsoftwarecatoronto)
+- [Github]
+- [@Twitter](http://www.twitter.com/WSoftwareCa_TO)
+- [@Instagram](https://www.instagram.com/womeninsoftwarecatoronto/)
+- [@Threads](https://threads.net/womeninsoftwarecavancouver/)
+- [@Bsky](http://womeninsoftwareto.bsky.social)
+- [Linkedin Group/Page]
 
 ## Vancouver
 Previously: Women Who Code Vancouver
@@ -208,14 +217,16 @@ Previously: Women Who Code Vancouver
 
 - Community Organizer: Eliza Sarobhasa
 - [Personal Website] pending, waiting for DNS fix because it's ~ always ~ DNS
-- Description - Legacy community, in the process of rebranding existing WWCode Vancouver community spaces
+- Description - Legacy community, in the process of rebranding existing WWCode Vancouver community spaces, collaboration with Toronto, ON
 - [Slack]
 - [Facebook Group](https://www.facebook.com/groups/womeninsoftwarecavancouver)
 - [Github]
 - [@Twitter](http://www.twitter.com/WSoftwareCa_Van)
 - [@Instagram](https://www.instagram.com/womeninsoftwarecavancouver/)
 - [@Threads](https://threads.net/womeninsoftwarecavancouver/)
+- [@Bsky](http://womeninsoftwarevan.bsky.social)
 - [Linkedin Group/Page]
+
 
 
 ## Washington
