@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to the wwcode-legacygroups repository! We are looking for additional speakers to add to our expanding list.
+Thank you for your interest in contributing to the wwcode-legacygroups repository! We are looking for additional community groups to add to our expanding list of legacy Women Who Code communities.
 
 **Before submitting a new name, please check the README to see whether your suggestion already exists.**
 
