@@ -129,11 +129,17 @@ Previously: Women Who Code Dublin
 
 ## Greenville
 Previously: Women Who Code Greenville
-### UpWiSE Upstate Women in Software Engineering
+### UpWiSE: Upstate Women in Software Engineering
 
-- Community Organizer Full Name (First, Last)
-- [Personal Website]
-- Description - 
+- Community Organizers: Kara Mansel, Christina Roberts, Jen Bauer, Em Blitstein
+- [Website: UpWiSE](https://upwisesc.org)
+- Description: We are empowering women in the Upstate of South Carolina through providing a welcoming and resource-rich environment for women involved or interested in technology. Through educational content, community events, and a diverse peer network, we encourage and elevate women pursuing technical careers.
+- [Email](upwisesc@gmail.com)
+- [Meetup](https://www.meetup.com/upwise-upstate-women-in-software-engineering/)
+- [@Instagram](https://www.instagram.com/upwisesc)
+- [Twitter/X](https://twitter.com/upwisesc)
+- [Slack](https://upwisesc.slack.com)
+- [GitHub](https://github.com/UpstateWomenInSoftwareEngineering)
 
 ## London
 Previously: Women Who Code London
