@@ -49,7 +49,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 Previously: Women Who Code Python
 ### WiSPY - Women in Software & Python
 
-- Community Organizer: Eliza Sarobhasa
+- Community Organizer: [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)
 - [Personal Website] pending, waiting for DNS fix because it's ~ always ~ DNS
 - Description - Legacy community, in the process of rebranding existing WWCode Python community spaces
 - [Slack](https://join.slack.com/t/womeninsoftwarepython/shared_invite/zt-2i1nrfijk-4PHi8KhnKFVYi9P4wJn34w)
@@ -200,7 +200,7 @@ Previously: Women Who Code Tokyo
 Previously: Women Who Code Toronto
 ### Women in Software Computing Canada - Toronto
 
-- Community Organizer: Eliza Sarobhasa, Navati Jain, Aranyah Shanker, Su
+- Community Organizer: [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa), Navati Jain, Aranyah Shanker, Su
 - [Personal Website] pending, waiting for DNS fix because it's ~ always ~ DNS
 - Description - still setting up/discussing on rebuilding community spaces, collaboration with Vancouver, BC
 - [Slack]
@@ -216,7 +216,7 @@ Previously: Women Who Code Toronto
 Previously: Women Who Code Vancouver
 ### Women in Software Computing Canada - Vancouver, BC
 
-- Community Organizer: Eliza Sarobhasa
+- Community Organizer: [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)
 - [Personal Website] pending, waiting for DNS fix because it's ~ always ~ DNS
 - Description - Legacy community, in the process of rebranding existing WWCode Vancouver community spaces, collaboration with Toronto, ON
 - [Slack]
