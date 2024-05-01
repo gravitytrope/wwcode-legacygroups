@@ -47,7 +47,7 @@ Previously: Old Technical Track Name
 ### New Community Group Name
 
 - Community Organizer Full Name (First, Last)
-- [Personal Website](http://www.examplewebsitelink.com)
+- [Personal Website: Example.com](http://www.examplewebsitelink.com)
 - Description - 
 - [Slack](http://slack.com)
 - [Discord](http://discord.com)
@@ -66,7 +66,7 @@ Previously: Women Who Code City / Network Chapter Name
 ### New Community Group Name
 
 - Community Organizer Full Name (First, Last)
-- [Personal Website](http://www.examplewebsitelink.com)
+- [Personal Website: Example.com](http://www.examplewebsitelink.com)
 - Description - 
 - [Slack](http://slack.com)
 - [Discord](http://discord.com)
@@ -83,7 +83,7 @@ Previously: Women Who Code City / Network Chapter Name
 #### New Community Group Name
 
 - Community Organizer Full Name (First, Last)
-- [Personal Website](http://www.examplewebsitelink.com)
+- [Personal Website: Example.com](http://www.examplewebsitelink.com)
 - Description - 
 - [Slack](http://slack.com)
 - [Discord](http://discord.com)
@@ -100,7 +100,8 @@ Previously: Women Who Code City / Network Chapter Name
 #### New Community Group Name
 
 - Community Organizer Full Name (First, Last)
-- [Personal Website](http://www.examplewebsitelink.com)
+- [Personal Website: Example.com](http://www.examplewebsitelink.com)
+- Description -
 - [Slack](http://slack.com)
 - [Discord](http://discord.com)
 - [Github](http://github.com)
