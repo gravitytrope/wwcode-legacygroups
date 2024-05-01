@@ -42,8 +42,9 @@ Please add yourself alphabetically per local chapter/network and be sure to add 
 > Technical Track
 
 ```markdown
-## Previously: Old Technical Track Name
-#### New Community Group Name
+## Technical Track
+Previously: Old Technical Track Name
+### New Community Group Name
 
 - Community Organizer Full Name (First, Last)
 - [Personal Website](http://www.examplewebsitelink.com)
@@ -60,8 +61,9 @@ Please add yourself alphabetically per local chapter/network and be sure to add 
 > Network City Chapter
 
 ```markdown
-## Previously: Old City Chapter Name
-#### New Community Group Name
+## City Name
+Previously: Women Who Code City / Network Chapter Name
+### New Community Group Name
 
 - Community Organizer Full Name (First, Last)
 - [Personal Website](http://www.examplewebsitelink.com)
