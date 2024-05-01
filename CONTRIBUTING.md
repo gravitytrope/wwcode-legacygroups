@@ -48,9 +48,12 @@ Please add yourself alphabetically per local chapter/network and be sure to add 
 - Community Organizer Full Name (First, Last)
 - [Personal Website](http://www.examplewebsitelink.com)
 - Description - 
+- [Slack](http://slack.com)
+- [Discord](http://discord.com)
+- [Github](http://github.com)
 - [@TwitterHandle](http://twitter.com)
 - [@Instagram](http://instagram.com)
-- [Slack](http://slack.com)
+- [Linkedin Group/Page](http://linkedin.com)
 - [Meetup](http://meetup.com)
 ```
 
@@ -63,9 +66,12 @@ Please add yourself alphabetically per local chapter/network and be sure to add 
 - Community Organizer Full Name (First, Last)
 - [Personal Website](http://www.examplewebsitelink.com)
 - Description - 
+- [Slack](http://slack.com)
+- [Discord](http://discord.com)
+- [Github](http://github.com)
 - [@TwitterHandle](http://twitter.com)
 - [@Instagram](http://instagram.com)
-- [Slack](http://slack.com)
+- [Linkedin Group/Page](http://linkedin.com)
 - [Meetup](http://meetup.com)
 ```
 
@@ -77,9 +83,12 @@ Please add yourself alphabetically per local chapter/network and be sure to add 
 - Community Organizer Full Name (First, Last)
 - [Personal Website](http://www.examplewebsitelink.com)
 - Description - 
+- [Slack](http://slack.com)
+- [Discord](http://discord.com)
+- [Github](http://github.com)
 - [@TwitterHandle](http://twitter.com)
 - [@Instagram](http://instagram.com)
-- [Slack](http://slack.com)
+- [Linkedin Group/Page](http://linkedin.com)
 - [Meetup](http://meetup.com)
 ```
 
@@ -90,11 +99,13 @@ Please add yourself alphabetically per local chapter/network and be sure to add 
 
 - Community Organizer Full Name (First, Last)
 - [Personal Website](http://www.examplewebsitelink.com)
-- Email Address
-- Topics of Interest- Topic 1, Topic 2, Topic 3
-- Location - City, State, Country
-- Languages besides English - List, Here
-- Explain what you'd like to get involved in. Keep it shorter than 3-4 sentences.
+- [Slack](http://slack.com)
+- [Discord](http://discord.com)
+- [Github](http://github.com)
+- [@TwitterHandle](http://twitter.com)
+- [@Instagram](http://instagram.com)
+- [Linkedin Group/Page](http://linkedin.com)
+- [Meetup](http://meetup.com)
 ```
 
 ## Beginner Friendly Resources for using Git and GitHub
