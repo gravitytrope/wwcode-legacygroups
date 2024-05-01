@@ -1,5 +1,3 @@
-This Contribution guideline / Instructions document is adapted from fempire / women-tech-speakers-organizers.
-
 # Contributing Guidelines
 
 Thank you for your interest in contributing to the wwcode-legacygroups repository! We are looking for additional speakers to add to our expanding list.
@@ -102,3 +100,7 @@ Please add yourself alphabetically per local chapter/network and be sure to add 
 ## Beginner Friendly Resources for using Git and GitHub
 
 - [Getting Started with Git](https://www.thisdot.co/blog/getting-started-with-git)
+
+# Attribution
+This Contribution guideline / Instructions document is adapted from fempire / women-tech-speakers-organizers.
+
