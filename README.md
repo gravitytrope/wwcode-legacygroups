@@ -1,5 +1,5 @@
 # WWCode-legacygroups
-List of newly created communities from the closing down of Women Who Code's chapters, networks, technical tracks.
+List of newly created communities from the shutdown of Women Who Code's chapters, networks, technical tracks.
 Please submit a PR if you'd like to add yourself or add others!
 
 Also included in this list is a list of spinoff/adjacent women in tech communities.
