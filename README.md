@@ -5,6 +5,7 @@ Please submit a PR if you'd like to add yourself or add others!
 Also included in this list is a list of spinoff/adjacent women in tech communities.
 This list originally started from a Google sheet file I keep - it's not complete, but it's a start if you'd like to follow!
 
+~* Thank you to [Ann Kilzer / legacy WWCode Tokyo Director](#tokyo) suggestion for migrating the list to a github repo! <3
 
 ## Table of Contents
 
