@@ -170,6 +170,8 @@ Previously: Women Who Code London
 - [Personal Website: WomenCodingCommunity.com](http://www.womencodingcommunity.com)
 - Description - 
 - [Slack](https://bit.ly/women_coding_community)
+- [Github](https://github.com/WomenCodingCommunity)
+- [@TwitterHandle](https://twitter.com/WCC_Community)
 - [@Instagram](https://www.instagram.com/women_coding_community/)
 - [Linkedin Page](https://www.linkedin.com/company/103490940)
 
