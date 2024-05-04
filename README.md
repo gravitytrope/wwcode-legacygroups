@@ -24,13 +24,16 @@ This list originally started from a Google sheet file I keep - it's not complete
   - [Women Who Code Berlin](#berlin)
   - [Women Who Code Dublin](#dublin)
   - [Women Who Code Greenville](#greenville)
+  - [Women Who Code Kyiv](#kyiv)
   - [Women Who Code London](#london)
+  - [Women Who Code Mérida](#merida)
   - [Women Who Code New York City NYC](#nyc)
   - [Women Who Code Salt Lake City](#salt-lake-city)
   - [Women Who Code San Diego](#san-diego)
   - [Women Who Code Singapore](#singapore)
   - [Women Who Code Tokyo](#tokyo)
   - [Women Who Code Toronto](#toronto)
+  - [Women Who Code Twin Cities](#twin-cities)
   - [Women Who Code Vancouver BC](#vancouver)
   - [Women Who Code Washington DC](#washington)
 - [Contributing](#contributing)
@@ -141,6 +144,15 @@ Previously: Women Who Code Greenville
 - [Slack](https://upwisesc.slack.com)
 - [GitHub](https://github.com/UpstateWomenInSoftwareEngineering)
 
+## Kyiv
+Previously: Women Who Code Kyiv
+### Vona Tech Community
+
+- Community Organizer Full Name (First, Last)
+- 
+- Description - 
+- [@Instagram](http://www.instagram.com/vona.tech.community)
+
 ## London
 Previously: Women Who Code London
 ### Women Coding Community
@@ -151,6 +163,15 @@ Previously: Women Who Code London
 - [Slack](https://bit.ly/women_coding_community)
 - [@Instagram](https://www.instagram.com/women_coding_community/)
 - [Linkedin Page](https://www.linkedin.com/company/103490940)
+
+## Mérida 
+Previously: Women Who Code Mérida 
+### Mujeres en STEM Yucatán
+
+- Community Organizer Full Name (First, Last)
+- 
+- Description - 
+- [@Instagram](http://www.instagram.com/womenstemyucatan)
 
 ## NYC
 Previously: Women Who Code NYC
@@ -201,6 +222,15 @@ Previously: Women Who Code Tokyo
 - [Slack](https://join.slack.com/t/wise-japan/shared_invite/zt-2h79966bm-dE7SyiGvv2CXBxbz_0JzKw)
 - [Github](https://github.com/WomenInSoftwareEngineeringJP)
 - [@Instagram](https://www.instagram.com/womeninsoftwarejp/)
+
+
+## Twin-Cities
+Previously: Women Who Code Twin Cities
+### TC Women Tech
+
+- Community Organizer Full Name (First, Last)
+- Description - 
+- [Slack](http://tcwomentechfriends.slack.com)
 
 ## Toronto
 Previously: Women Who Code Toronto
