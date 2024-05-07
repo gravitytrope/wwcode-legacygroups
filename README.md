@@ -110,6 +110,9 @@ Previously: Women Who Code Cloud
 - [Personal Website: Frontendqueens.com](https://www.frontendqueens.com/)
 - Description - 
 - [Slack](https://join.slack.com/t/frontendqueens/shared_invite/zt-2h5zjeezm-mhrvA57KrN~dACKA0htDdg)
+- [@TwitterHandle](http://twitter.com/frontendqueens)
+- [@Instagram](https://www.instagram.com/frontendqueens)
+- [LinkedIn Group](https://www.linkedin.com/company/frontendqueens)
 
 ## Mobile
 Previously: Women Who Code Mobile
