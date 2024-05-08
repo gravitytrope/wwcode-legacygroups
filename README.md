@@ -44,7 +44,7 @@ This list originally started from a Google sheet file I keep - it's not complete
 
 ## Code of Conduct
 
-If anyone is reported as malicious or making others feel uncomfortable, they may be removed from this list. To report, email `eliz.sarobhasa@gmail.com`.
+If anyone is reported as malicious or making others feel uncomfortable, they may be removed from this list. To report, email `elizsarobhasa@googlegroups.com`.
 
 ## Technical-Tracks
 
