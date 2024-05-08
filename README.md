@@ -35,7 +35,7 @@ This list originally started from a Google sheet file I keep - it's not complete
   - [Women Who Code Toronto](#toronto)
   - [Women Who Code Twin Cities](#twin-cities)
   - [Women Who Code Vancouver BC](#vancouver)
-  - [Women Who Code Washington DC](#washington)
+  - [Women Who Code Washington DC](#washington-dc)
 - [Contributing](#contributing)
   - [Formatting](#formatting)  
 <!-- /TOC -->
@@ -82,6 +82,8 @@ Previously: Women Who Code Cloud
 - [Personal Website: ClaireCommunity.org](http://www.clairecommunity.org/)
 - Description - 
 - [Slack](https://join.slack.com/t/clairecommunity/shared_invite/zt-2h5etzxd2-cwjZRFhY5XdI1~484u_L7A)
+- [GitHub](https://github.com/CLAIRE-Community)
+- [@Instagram](https://www.instagram.com/claire.exchange)
 - [Linkedin Group](https://www.linkedin.com/groups/13011483/)
 
 ## Front-End
@@ -92,6 +94,9 @@ Previously: Women Who Code Cloud
 - [Personal Website: Frontendqueens.com](https://www.frontendqueens.com/)
 - Description - 
 - [Slack](https://join.slack.com/t/frontendqueens/shared_invite/zt-2h5zjeezm-mhrvA57KrN~dACKA0htDdg)
+- [@TwitterHandle](http://twitter.com/frontendqueens)
+- [@Instagram](https://www.instagram.com/frontendqueens)
+- [LinkedIn Group](https://www.linkedin.com/company/frontendqueens)
 
 ## Mobile
 Previously: Women Who Code Mobile
@@ -161,6 +166,8 @@ Previously: Women Who Code London
 - [Personal Website: WomenCodingCommunity.com](http://www.womencodingcommunity.com)
 - Description - 
 - [Slack](https://bit.ly/women_coding_community)
+- [Github](https://github.com/WomenCodingCommunity)
+- [@TwitterHandle](https://twitter.com/WCC_Community)
 - [@Instagram](https://www.instagram.com/women_coding_community/)
 - [Linkedin Page](https://www.linkedin.com/company/103490940)
 
@@ -266,7 +273,7 @@ Previously: Women Who Code Vancouver
 
 
 
-## Washington
+## Washington D.C.
 Previously: Women Who Code Washington DC
 ### Women and Gender eXpansive Coders DC - WGXC DC
 
