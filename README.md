@@ -21,12 +21,16 @@ This list originally started from a Google sheet file I keep - it's not complete
 
 - [Network City Chapter](#network-city)
   - [Women Who Code Belfast](#belfast)
+  - [Women Who Code Bogotá](#bogotá)
   - [Women Who Code Berlin](#berlin)
   - [Women Who Code Dublin](#dublin)
+  - [Women Who Code East Bay](#east-bay)
   - [Women Who Code Greenville](#greenville)
   - [Women Who Code Kyiv](#kyiv)
   - [Women Who Code London](#london)
   - [Women Who Code Mérida](#merida)
+  - [Women Who Code Mumbai](#mumbai)
+  - [Women Who Code Richmond](#richmond)
   - [Women Who Code New York City NYC](#nyc)
   - [Women Who Code Salt Lake City](#salt-lake-city)
   - [Women Who Code San Diego](#san-diego)
@@ -126,6 +130,14 @@ Previously: Women Who Code Berlin
 - [Slack](https://bit.ly/WomenCodersBerlinSlack)
 - [Meetup](https://www.meetup.com/de-DE/women-coders-berlin/)
 
+## Bogotá
+Previously: Women Who Code Bogotá
+### Phoenix Ladies Tech
+
+- Community Organizer Full Name (First, Last)
+- Description - 
+- [Instagram](https://www.instagram.com/phoenixladiestech)
+
 ## Dublin
 Previously: Women Who Code Dublin
 ### Women Coders Community Ireland
@@ -134,6 +146,15 @@ Previously: Women Who Code Dublin
 - Description - Merged with WWCode Belfast and WWCode Dublin
 - [Email](wcoderscommunityireland@gmail.com)
 - [Meetup](https://www.meetup.com/women-coders-comm-ireland/)
+
+## East Bay
+Previously: Women Who Code East Bay, California
+### Women of East Bay Developers (WEBdevs)
+
+- Community Organizer Full Name (First, Last)
+- Description - DM Lianna on LinkedIn to get an Discord invite
+- [Linkedin](https://www.linkedin.com/in/liannanovitz/)
+- [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7193745207098593280/)
 
 ## Greenville
 Previously: Women Who Code Greenville
@@ -180,6 +201,17 @@ Previously: Women Who Code Mérida
 - Description - 
 - [@Instagram](http://www.instagram.com/womenstemyucatan)
 
+ ## Mumbai
+Previously: Women Who Code Mumbai
+### Women X Code
+
+- Community Organizer Full Name (First, Last)
+- [Personal Website: WomenXCode.com](http://www.womenxcode.com)
+- Description - 
+- [Email](tanbab98@gmail.com)
+- [Meetup](https://www.meetup.com/women-x-code-mumbai/)
+- [Discord](http://www.discord.com/invite/uu7knjg3SC)
+
 ## NYC
 Previously: Women Who Code NYC
 ### Women Who Type Logic NYC
@@ -188,6 +220,14 @@ Previously: Women Who Code NYC
 - Description - 
 - [Slack](https://join.slack.com/t/nycwcoders/shared_invite/zt-2hseatgus-ZM7UMy2SiJ9I5MaaAjmmrw)
 - [Meetup](https://www.meetup.com/women-coders-collective-nyc/)
+
+## Richmond
+Previously: Women Who Code Richmond
+### Women Coders Coalition
+
+- Community Organizer Full Name (First, Last)
+- Description - 
+- [Facebook](https://www.facebook.com/groups/686983460149607/)
 
 ## Salt Lake City
 Previously: Women Who Code Salt Lake City
