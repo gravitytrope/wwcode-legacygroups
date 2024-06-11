@@ -256,8 +256,8 @@ Previously: Women Who Code Monterret
 ### Tech Fem <mty>
 
 - Community Organizer Full Name (First, Last)
-- [@Instagram](https://www.instagram.com/techfemmty)
 - Description - 
+- [@Instagram](https://www.instagram.com/techfemmty)
 
 ## Mumbai
 Previously: Women Who Code Mumbai
