@@ -24,6 +24,9 @@ This list originally started from a Google sheet file I keep - it's not complete
   - [Women Who Code Belfast](#belfast)
   - [Women Who Code Bogotá](#bogotá)
   - [Women Who Code Berlin](#berlin)
+  - [Women Who Code Boulder / Denver](#boulder-denver)
+  - [Women Who Code Colorado](#boulder-denver)
+  - [Women Who Code DFW - Dallas / Fort Worth](#dallas-fort-worth)
   - [Women Who Code Dublin](#dublin)
   - [Women Who Code East Bay](#east-bay)
   - [Women Who Code Greenville](#greenville)
@@ -31,6 +34,7 @@ This list originally started from a Google sheet file I keep - it's not complete
   - [Women Who Code Kyiv](#kyiv)
   - [Women Who Code London](#london)
   - [Women Who Code Mérida](#merida)
+  - [Women Who Code Monterrey](#monterrey)
   - [Women Who Code Mumbai](#mumbai)
   - [Women Who Code Richmond](#richmond)
   - [Women Who Code New York City NYC](#nyc)
@@ -154,6 +158,25 @@ Previously: Women Who Code Bogotá
 - Description - 
 - [Instagram](https://www.instagram.com/phoenixladiestech)
 
+## Boulder-Denver
+Previously: Women Who Code Boulder/Denver, Women Who Code Colorado
+### Women Who <Software>
+
+- Community Organizer Full Name (First, Last)
+- Description - 
+- [Github](https://github.com/women-who-software)
+- [@Instagram](https://www.instagram.com/women_who_software/)
+
+## Dallas / Fort Worth
+Previously: Women Who Code DFW - Dallas / Fort Worth
+### Inclusive Tech Coalition
+
+- Community Organizer Full Name (Claire Tolbert)
+- Description - 
+- [Personal Website: Inclusive Tech Coalition](https://inclusivetechcoalition.com)
+- [Slack](http://inclusivetechcoal.slack.com)
+- [Github](https://github.com/InclusiveTechCoalition)
+
 ## Dublin
 Previously: Women Who Code Dublin
 ### Women Coders Community Ireland
@@ -228,7 +251,15 @@ Previously: Women Who Code Mérida
 - Description - 
 - [@Instagram](http://www.instagram.com/womenstemyucatan)
 
- ## Mumbai
+## Monterrey
+Previously: Women Who Code Monterret
+### Tech Fem <mty>
+
+- Community Organizer Full Name (First, Last)
+- [@Instagram](https://www.instagram.com/techfemmty)
+- Description - 
+
+## Mumbai
 Previously: Women Who Code Mumbai
 ### Women X Code
 
