@@ -253,7 +253,7 @@ Previously: Women Who Code Mérida
 
 ## Monterrey
 Previously: Women Who Code Monterret
-### Tech Fem <mty>
+### TechFem Monterrey
 
 - Community Organizer Full Name (First, Last)
 - Description - 
