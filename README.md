@@ -167,7 +167,7 @@ Previously: Women Who Code Boulder/Denver, Women Who Code Colorado
 - [Github](https://github.com/women-who-software)
 - [@Instagram](https://www.instagram.com/women_who_software/)
 
-## Dallas / Fort Worth
+## Dallas-Fort Worth
 Previously: Women Who Code DFW - Dallas / Fort Worth
 ### Inclusive Tech Coalition
 
