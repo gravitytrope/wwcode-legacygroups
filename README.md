@@ -67,7 +67,7 @@ Previously: Women Who Code Python
 - [Personal Website] WomeninSoftware.com/Python(http://www.womeninsoftware.com/python)
 - Description - Legacy community, in the process of rebranding existing WWCode Python community spaces
 - [Slack](https://join.slack.com/t/womeninsoftwarepython/shared_invite/zt-2joa4keb8-TuLJmhqQj8da9fXeer6zuw)
-- [Discord](https://discord.gg/PXCgPr6n)
+- [Discord](https://discord.gg/aav7NKxpkc)
 - [Github](https://github.com/womeninsoftwarepython)
 - [@TwitterHandle](http://www.twitter.com/womensoftwarepy)
 - [@Instagram](http://instagram.com/womeninsoftwarepython)
