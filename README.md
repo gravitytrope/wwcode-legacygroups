@@ -66,7 +66,7 @@ Previously: Women Who Code Python
 - Community Organizer: [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)
 - [Personal Website] WomeninSoftware.com/Python(http://www.womeninsoftware.com/python)
 - Description - Legacy community, in the process of rebranding existing WWCode Python community spaces
-- [Slack](https://join.slack.com/t/womeninsoftwarepython/shared_invite/zt-2joa4keb8-TuLJmhqQj8da9fXeer6zuw)
+- [Slack](https://join.slack.com/t/womeninsoftwarepython/shared_invite/zt-2mpfxsvlg-_~of~nXCJcMOfylYvqgv1A)
 - [Discord](https://discord.gg/aav7NKxpkc)
 - [Github](https://github.com/womeninsoftwarepython)
 - [@TwitterHandle](http://www.twitter.com/womensoftwarepy)
