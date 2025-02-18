@@ -335,11 +335,13 @@ Previously: Women Who Code Singapore
 
 ## Tokyo
 Previously: Women Who Code Tokyo
-### WISE - Women in Software Japan
+### WiSE - Women in Software Engineering JP
 
-- Community Organizer Full Name (First, Last)
+- Directors: Ann Kilzer, Paty Cortez
 - [Personal Website: Womeninsoftware.jp](https://womeninsoftware.jp)
-- Description - 
+- Description - Empowering women across Japan to succeed in technology careers.
+- [Home Page](https://womeninsoftware.jp)
+- [Events](https://womeninsoftware-japan.connpass.com/)
 - [Slack](https://join.slack.com/t/wise-japan/shared_invite/zt-2h79966bm-dE7SyiGvv2CXBxbz_0JzKw)
 - [Github](https://github.com/WomenInSoftwareEngineeringJP)
 - [@Instagram](https://www.instagram.com/womeninsoftwarejp/)
